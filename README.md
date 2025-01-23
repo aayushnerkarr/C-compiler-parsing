@@ -1,5 +1,11 @@
-# C++ expression parsing.<br>
-Expression parsing in C++ with Dijkstra's
+*Codetech IT Solutions* <br>
+*Name - Aayush Girish Nerkar*<br>
+*Intern Id - CT08GGQ*<br>
+*C++ Programming*<br>
+*Batch Duration - January 5th, 2025 to February 5th, 2025.*<br>
+*Mentor - Neela Santosh.*<br>v
+# C++ compiler that can parse a Basic Arithmetic <br>
+# Expression
 
 ## Features.
  + Unary operators. +, -
